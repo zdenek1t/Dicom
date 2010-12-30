@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_dcm_verify
+END
+dcm_verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_dcm_verify/dcm_verify.h
+END
+dcm_verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_dcm_verify/dcm_verify.c
+END

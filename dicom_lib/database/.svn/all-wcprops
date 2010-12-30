@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/database
+END
+database.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/database/database.c
+END
+dbquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/database/dbquery.h
+END
+dbprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/database/dbprivate.h
+END

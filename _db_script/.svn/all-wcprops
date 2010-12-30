@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/_db_script
+END
+create_dcm.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/_db_script/create_dcm.sql
+END
+oprava.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/_db_script/oprava.sql
+END
+dicom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/_db_script/dicom.sql
+END

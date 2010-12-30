@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/idb
+END
+idb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/idb/idb.h
+END
+idb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/idb/idb.c
+END
+idbcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/idb/idbcond.c
+END

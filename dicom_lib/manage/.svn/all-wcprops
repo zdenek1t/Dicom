@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage
+END
+delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/delete.c
+END
+mancond.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/mancond.c
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/select.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/control.c
+END
+dmanprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/dmanprivate.h
+END
+set.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/set.c
+END
+insert.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/insert.c
+END
+manage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/manage/manage.h
+END

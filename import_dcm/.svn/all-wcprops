@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/import_dcm
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/import_dcm/sources.mk
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/import_dcm/objects.mk
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/import_dcm/makefile
+END

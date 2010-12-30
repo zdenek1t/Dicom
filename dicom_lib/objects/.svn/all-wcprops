@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects
+END
+dcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcm.c
+END
+dcmcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcmcond.c
+END
+dcmsupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcmsupport.c
+END
+dcm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcm1.c
+END
+dcmdict.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcmdict.c
+END
+dicom_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dicom_objects.h
+END
+dcmprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/objects/dcmprivate.h
+END

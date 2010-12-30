@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dcm_verify/dicom_lib/condition
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dcm_verify/dicom_lib/condition/subdir.mk
+END

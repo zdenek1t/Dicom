@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages
+END
+cbuild.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/cbuild.c
+END
+messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/messages.c
+END
+msgsupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/msgsupport.c
+END
+ref_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/ref_item.c
+END
+cparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/cparse.c
+END
+nbuild.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/nbuild.c
+END
+msgcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/msgcond.c
+END
+dicom_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/dicom_messages.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/dump.c
+END
+nparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/nparse.c
+END
+msgprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/messages/msgprivate.h
+END

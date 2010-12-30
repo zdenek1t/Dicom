@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/hunks
+END
+hunk_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/hunks/hunk_file.c
+END
+hunk_man.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/hunks/hunk_man.c
+END
+hunk_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/hunks/hunk_file.h
+END
+hunk_man.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/hunks/hunk_man.h
+END

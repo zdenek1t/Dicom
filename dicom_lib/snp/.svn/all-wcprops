@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/decode.c
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/decode.h
+END
+snp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/snp.c
+END
+dlroutines.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/dlroutines.c
+END
+snpcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/snpcond.c
+END
+snp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/snp/snp.h
+END

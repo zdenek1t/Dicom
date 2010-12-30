@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services
+END
+move.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/move.c
+END
+nset.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/nset.c
+END
+get.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/get.c
+END
+cmd_valid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/cmd_valid.c
+END
+find.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/find.c
+END
+ndelete.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/ndelete.c
+END
+srvcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/srvcond.c
+END
+verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/verify.c
+END
+srv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/srv1.c
+END
+srv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/srv2.c
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/storage.c
+END
+services.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/services.c
+END
+neventreport.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/neventreport.c
+END
+private.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/private.c
+END
+naction.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/naction.c
+END
+dicom_services.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/dicom_services.h
+END
+nget.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/nget.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/private.h
+END
+send.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/send.c
+END
+ncreate.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/services/ncreate.c
+END

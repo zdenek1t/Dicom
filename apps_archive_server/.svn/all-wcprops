@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/find.h
+END
+archive_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/archive_server.c
+END
+association.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/association.c
+END
+move.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/move.c
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/queue.c
+END
+sscond.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/sscond.c
+END
+cget.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/cget.c
+END
+image_archive.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/image_archive.h
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/parse.c
+END
+requests.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/requests.c
+END
+move.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/move.h
+END
+cget.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/cget.h
+END
+archive_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/archive_queue.h
+END
+find.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/apps_archive_server/find.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol
+END
+dulconstruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulconstruct.c
+END
+dulcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulcond.c
+END
+dulprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulprivate.h
+END
+dulsnoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulsnoop.h
+END
+dulpresent.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulpresent.c
+END
+dulstructures.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulstructures.h
+END
+dulprotocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulprotocol.c
+END
+dulfsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulfsm.c
+END
+dulparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulparse.c
+END
+dulprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulprotocol.h
+END
+dulfsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulfsm.h
+END
+dulsnoop.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/dicom/!svn/ver/21/MAC_DICOM_NEW/dicom_lib/dulprotocol/dulsnoop.c
+END
